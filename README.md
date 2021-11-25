@@ -73,8 +73,8 @@ python3 main.py # Run the bot
 ```
 
 ### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+- [Kannu'xD](https://github.com/devellyf): Dev
+- [Kannu_support](https://t.me/kannu_op) Our Music Bot
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
 
 ### Support & Updates 🎑
