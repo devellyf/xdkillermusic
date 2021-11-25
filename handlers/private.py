@@ -27,7 +27,7 @@ async def start(_, message: Message):
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❰𝗦𝗼𝘂𝗿𝗰𝗲❱", url="https://github.com/devellyf/xdkillermusic"
+                        "❰𝗦𝗼𝘂𝗿𝗰𝗲❱", url="https://t.me/XD_dead_killer"
                     )]
             ]
         ),
@@ -36,12 +36,12 @@ async def start(_, message: Message):
 
 @Client.on_message(filters.command("hexor") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
-      await message.reply_text("""**𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝗻𝗹𝗶𝗻𝗲 𝗡𝗼𝘄\n🌠𝗛𝗲𝘅𝗼𝗿 𝗫𝗗 <3**""",
+      await message.reply_text("""**𝗠𝘂𝘀𝗶𝗰 𝗕𝗼𝘁 𝗢𝗻𝗹𝗶𝗻𝗲 𝗡𝗼𝘄\n🖤𝐊𝐀𝐍𝐍𝐔 𝐗𝐃**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🌼𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/Prayagraj_Op")
+                        "🌼𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/kannu_op")
                 ]
             ]
         )
